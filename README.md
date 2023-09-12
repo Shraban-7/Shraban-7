@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraban-7" alt="shraban-7" /></a> </p>
+
 
 - 🌱 I’m currently learning **Laravel, Vue**
 
