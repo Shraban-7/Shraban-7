@@ -2,17 +2,15 @@
 
 ### 🚀 Laravel Developer | Backend Engineer | Full-Stack Developer
 
-I'm a **Laravel Developer** focused on building scalable backend systems, RESTful APIs, SaaS platforms, and business applications.
+I'm a **Laravel Developer** focused on building scalable backend systems, RESTful APIs, SaaS platforms, and business applications — from **ERP and Inventory Management Systems** to **E-commerce Platforms and Custom Web Applications**.
 
-I enjoy building software that solves real-world problems — from **ERP and Inventory Management Systems** to **E-commerce Platforms and Custom Web Applications**.
-
-My primary expertise is in **PHP & Laravel backend development**, while I'm continuously expanding my full-stack capabilities with **React, Next.js, and modern JavaScript technologies**.
+My core expertise is **PHP & Laravel backend development**, and I'm continuously expanding into full-stack work with **React, Next.js, and modern JavaScript**.
 
 - 🔭 Currently working as a **Laravel Developer**
-- 💻 Building **REST APIs, SaaS Platforms, ERP, E-commerce Platforms, Inventory Systems & Custom Web Application**
+- 💻 Building **REST APIs, SaaS Platforms, ERP, E-commerce Platforms, Inventory Systems & Custom Web Applications**
 - 🌱 Currently improving my skills in **React & Next.js**
 - 🧠 Interested in **Software Architecture, Scalable Systems & AI-assisted Development**
-- 🗄️ Experienced with **MySQL, PostgreSQL, MongoDb, SQLite & MariaDB**
+- 🗄️ Experienced with **MySQL, PostgreSQL, MongoDB, SQLite & MariaDB**
 - 🔐 Experienced in **Authentication, Authorization, JWT & Role-Based Access Control**
 - 🐳 Working with **Docker & Containerized Development**
 - 🔄 Interested in **CI/CD & Automated Deployment**
@@ -22,256 +20,107 @@ My primary expertise is in **PHP & Laravel backend development**, while I'm cont
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sh.shraban.3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakuat-shraban)
 
 ---
 
-# 💻 Tech Stack
+## 📌 Featured Projects
 
-## 🧑‍💻 Programming Languages
+> _Add 2–4 of your best repos here — this is usually the first thing recruiters and collaborators look at._
 
+| Project | Description | Tech |
+|---|---|---|
+| [Project Name](#) | One-line description of what it does and the problem it solves | Laravel, MySQL, Docker |
+| [Project Name](#) | One-line description of what it does and the problem it solves | React, Next.js, Postgres |
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,js,python,c,cpp,cs,java,go" />
 </p>
 
----
-
-## ⚙️ Backend & Frameworks
-
+### ⚙️ Backend & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi" />
 </p>
 
-**Technologies & Tools**
-
-- PHP
-- Laravel
-- Laravel REST API
-- Laravel Eloquent ORM
-- Laravel Query Builder
-- Laravel Passport
-- Laravel Breeze
+- PHP, Laravel (REST API, Eloquent ORM, Query Builder, Passport, Breeze)
 - Spatie Laravel Permission
-- Node.js
-- Express.js
-- Nest Js
-- Python
-- FastApi
-- Pydantic
-  
+- Node.js, Express.js, NestJS
+- Python, FastAPI, Pydantic
 
----
-
-## 🎨 Frontend Development
-
+### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nuxt,js,html,css,tailwind,bootstrap,jquery,vite" />
 </p>
 
-**Technologies & Tools**
+- React.js, Next.js, Nuxt.js
+- JavaScript, HTML5, CSS3
+- Tailwind CSS, Bootstrap, jQuery, Vite
 
-- React.js
-- Next.js
-- Nuxt.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- jQuery
-- Vite
-
----
-
-## 🗄️ Databases & ORM
-
+### 🗄️ Databases & ORM
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
 </p>
 
-**Databases**
+- MySQL, PostgreSQL, SQLite, MariaDB, MongoDB
+- Laravel Eloquent ORM, Sequelize, Prisma, Drizzle ORM
+- Migrations, Relationships, Complex SQL, Query Optimization
 
-- MySQL
-- PostgreSQL
-- SQLite
-- MariaDB
-- MongoDB
+### 🔐 Authentication & Security
+- JWT Authentication, Laravel Passport, Laravel Breeze
+- Role-Based Access Control, Spatie Permission
+- API Authentication, Token-Based Authentication
 
-**ORM & Database Technologies**
-
-- Laravel Eloquent ORM
-- Sequelize
-- Prisma
-- Drizzle ORM
-- Laravel Query Builder
-- Database Migrations
-- Database Relationships
-- Complex SQL Queries
-- Query Optimization
-
----
-
-## 🔐 Authentication & Security
-
+### 🐳 DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,linux,git,github,postman,figma,npm,bun,vscode" />
 </p>
 
-- JWT Authentication
-- Laravel Passport
-- Laravel Authentication
-- Laravel Breeze
-- Role-Based Access Control
-- Spatie Permission
-- API Authentication
-- Authorization & Permissions
-- Token-Based Authentication
+- Docker, Docker Compose, Containerized Development
+- CI/CD: GitHub Actions, GitLab CI/CD
+- Nginx, Apache, Linux
+- Git, GitHub, GitLab, Postman, Figma, NPM, Yarn, Bun, VS Code
 
 ---
 
-# 🚀 What I Build & Work With
+## 🚀 What I Build
 
-I work across backend, frontend, databases, and infrastructure to build scalable and production-ready applications.
+**🏢 SaaS & Business Applications**
+ERP systems, inventory management, sales & purchase platforms, financial/reporting systems, multi-tenant SaaS, dashboards & analytics.
 
-### 🏢 SaaS & Business Applications
+**🛒 E-commerce Platforms**
+Product & variant management, cart/checkout, order & customer management, stock management, payment integration.
 
-- ERP Systems
-- Inventory Management Systems
-- Sales & Purchase Management Platforms
-- Financial & Reporting Systems
-- Multi-tenant SaaS Applications
-- Business Management Platforms
-- Dashboard & Analytics Systems
+**🌐 Custom Web Applications**
+Business websites, custom web apps, portfolio/service platforms, API-powered applications.
 
-**Technologies**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker,git,github" />
-</p>
+**⚙️ Backend & API Development**
+RESTful APIs, authentication & authorization, RBAC, database design, pagination/filtering/search, service-layer architecture.
 
 ---
 
-### 🛒 E-commerce Platforms
-
-- E-commerce Applications
-- Product & Product Variant Management
-- Shopping Cart & Checkout Systems
-- Order Management
-- Customer Management
-- Inventory & Stock Management
-- Payment Integration
-
-**Technologies**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,mysql,postgres,prisma,nestjs" />
-</p>
-
----
-
-### 🌐 Custom Web Applications
-
-- Business Websites
-- Custom Web Applications
-- Portfolio & Service Platforms
-- API-powered Applications
-- Responsive Web Interfaces
-
-**Technologies**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxt,js,tailwind,bootstrap,laravel,nodejs" />
-</p>
-
----
-
-### ⚙️ Backend & API Development
-
-- RESTful API Development
-- Authentication & Authorization
-- JWT & Token-based Authentication
-- Role-Based Access Control
-- Database Design & Relationships
-- Query Optimization
-- API Pagination, Filtering & Searching
-- Business Logic & Service Architecture
-
-**Technologies**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,mysql,postgres,docker" />
-</p>
-
----
-
-## 🐳 DevOps, Docker & CI/CD
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,linux" />
-</p>
-
-**Technologies & Practices**
-
-- Docker
-- Docker Compose
-- Containerized Development
-- CI/CD Pipelines
-- GitHub Actions
-- GitLab CI/CD
-- Automated Testing & Deployment
-- Continuous Integration
-- Continuous Deployment
-- Nginx
-- Apache
-- Linux
-- Environment & Configuration Management
-
----
-
-## 🛠️ Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,npm,bun,vscode" />
-</p>
-
-- Git
-- GitHub
-- GitLab
-- Postman
-- Figma
-- NPM
-- Yarn
-- Bun
-- VS Code
-- Cusor
-- Antigravity
-
----
-
-# 🌱 Currently Learning & Future Goals
-
-I'm continuously expanding my backend and full-stack engineering knowledge.
-
-### 📚 Future Technologies
+## 🌱 Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,go" />
 </p>
 
-- C#
-- ASP.NET Core
-- Java
-- Spring Boot
+- C#, ASP.NET Core
+- Java, Spring Boot
 - Go (Golang)
 
-My goal is to become a stronger **polyglot backend engineer** capable of designing and building scalable systems across multiple ecosystems.
+My goal is to become a stronger **polyglot backend engineer**, capable of designing scalable systems across multiple ecosystems.
 
 ---
 
-# 📊 GitHub Contributions
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shraban-7&theme=github-dark&hide_border=true&area=true" width="100%"/>
@@ -279,23 +128,9 @@ My goal is to become a stronger **polyglot backend engineer** capable of designi
 
 ---
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shraban-7&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ### 💭 Developer Philosophy
 
 > **Build it clean. Scale it smart. Ship it confidently.**
-
----
 
 <p align="center">
   ⭐️ From <a href="https://github.com/Shraban-7">Shraban-7</a>
