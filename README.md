@@ -210,7 +210,7 @@ I work across backend, frontend, databases, and infrastructure to build scalable
 ## 🐳 DevOps, Docker & CI/CD
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,apache,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,apache2,linux" />
 </p>
 
 **Technologies & Practices**
