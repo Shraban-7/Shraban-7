@@ -27,17 +27,6 @@ My core expertise is **PHP & Laravel backend development**, and I'm continuously
 
 ---
 
-## 📌 Featured Projects
-
-> _Add 2–4 of your best repos here — this is usually the first thing recruiters and collaborators look at._
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](#) | One-line description of what it does and the problem it solves | Laravel, MySQL, Docker |
-| [Project Name](#) | One-line description of what it does and the problem it solves | React, Next.js, Postgres |
-
----
-
 ## 💻 Tech Stack
 
 ### 🧑‍💻 Languages
