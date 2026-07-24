@@ -42,7 +42,7 @@ My primary expertise is in **PHP & Laravel backend development**, while I'm cont
 ## ⚙️ Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestsj,fastapi" />
 </p>
 
 **Technologies & Tools**
@@ -167,7 +167,7 @@ I work across backend, frontend, databases, and infrastructure to build scalable
 **Technologies**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,mysql,postgres,prisma,nestjs" />
 </p>
 
 ---
@@ -202,7 +202,7 @@ I work across backend, frontend, databases, and infrastructure to build scalable
 **Technologies**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,mysql,postgres,docker" />
 </p>
 
 ---
@@ -210,7 +210,7 @@ I work across backend, frontend, databases, and infrastructure to build scalable
 ## 🐳 DevOps, Docker & CI/CD
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,apache2,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,linux" />
 </p>
 
 **Technologies & Practices**
@@ -234,7 +234,7 @@ I work across backend, frontend, databases, and infrastructure to build scalable
 ## 🛠️ Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,npm,yarn,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,npm,bun,vscode" />
 </p>
 
 - Git
