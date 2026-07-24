@@ -1,121 +1,124 @@
 # 👋 Hi, I'm Shraban
 
-### 🚀 Laravel Backend Developer | Full-Stack Developer | SaaS Builder
+### 🚀 Laravel Developer | Backend Engineer | Full-Stack Developer
 
-I'm a passionate **Laravel Developer** focused on building scalable backend systems, RESTful APIs, business applications, and SaaS products.
+I'm a **Laravel Developer** focused on building scalable backend systems, RESTful APIs, SaaS platforms, and business applications.
 
-I enjoy turning complex business requirements into clean, maintainable, and production-ready software. My main strength is **backend development with Laravel**, while I'm continuously expanding my frontend expertise with **React and Next.js**.
+I enjoy building software that solves real-world problems — from **ERP and Inventory Management Systems** to **E-commerce Platforms and Custom Web Applications**.
+
+My primary expertise is in **PHP & Laravel backend development**, while I'm continuously expanding my full-stack capabilities with **React, Next.js, and modern JavaScript technologies**.
 
 - 🔭 Currently working as a **Laravel Developer**
-- 💻 Building **REST APIs, SaaS Platforms, ERP & Inventory Management Systems**
-- 🌱 Currently learning and improving my skills in **React & Next.js**
+- 💻 Building **REST APIs, SaaS Platforms, ERP, E-commerce Platforms, Inventory Systems & Custom Web Application**
+- 🌱 Currently improving my skills in **React & Next.js**
 - 🧠 Interested in **Software Architecture, Scalable Systems & AI-assisted Development**
-- 🗄️ Experienced with **MySQL, PostgreSQL, SQLite & MariaDB**
+- 🗄️ Experienced with **MySQL, PostgreSQL, MongoDb, SQLite & MariaDB**
 - 🔐 Experienced in **Authentication, Authorization, JWT & Role-Based Access Control**
+- 🐳 Working with **Docker & Containerized Development**
+- 🔄 Interested in **CI/CD & Automated Deployment**
 - 🤝 Open to collaborating on **Laravel, SaaS & Full-Stack Projects**
-- 💬 Ask me about **Laravel, PHP, REST APIs, MySQL & Backend Development**
+- 💬 Ask me about **Laravel, PHP, REST APIs, Databases & Backend Development**
 - 📫 Reach me at **shakuatshraban935@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sh.shraban.3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shakuatshraban8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakuat-shraban)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shakuatshrabon-shrabon)
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+## 🧑‍💻 Programming Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,python,c,cpp" />
+</p>
 
 ---
 
-## 🚀 Backend Development
+## ⚙️ Backend & Frameworks
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,flask" />
+</p>
 
-### Laravel Ecosystem
+**Technologies & Tools**
 
-![Laravel Passport](https://img.shields.io/badge/Laravel%20Passport-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Laravel Breeze](https://img.shields.io/badge/Laravel%20Breeze-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spatie](https://img.shields.io/badge/Spatie-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Eloquent ORM](https://img.shields.io/badge/Eloquent%20ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-- Laravel REST API Development
+- PHP
+- Laravel
+- Laravel REST API
 - Laravel Eloquent ORM
 - Laravel Query Builder
-- Laravel API Resources
-- Laravel Form Request Validation
-- Laravel Authentication & Authorization
 - Laravel Passport
 - Laravel Breeze
 - Spatie Laravel Permission
-- Database Migrations
-- Seeders & Factories
-- Service Layer Architecture
-- Role-Based Access Control
-- JWT Authentication
-- API Pagination, Filtering & Searching
+- Node.js
+- Express.js
+- Nest Js
+- Python
+- FastApi
+- Pydantic
+  
 
 ---
 
 ## 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxt,js,html,css,tailwind,bootstrap,jquery,vite" />
+</p>
+
+**Technologies & Tools**
+
+- React.js
+- Next.js
+- Nuxt.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- jQuery
+- Vite
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & ORM
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+</p>
 
-### Database & ORM Technologies
+**Databases**
 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-
-- MySQL Database Design
+- MySQL
 - PostgreSQL
 - SQLite
 - MariaDB
-- Eloquent ORM
-- Sequelize ORM
-- Database Relationships
-- Query Optimization
-- Complex SQL Queries
-- Joins & Aggregations
+- MongoDB
+
+**ORM & Database Technologies**
+
+- Laravel Eloquent ORM
+- Sequelize
+- Prisma
+- Drizzle ORM
+- Laravel Query Builder
 - Database Migrations
+- Database Relationships
+- Complex SQL Queries
+- Query Optimization
 
 ---
 
 ## 🔐 Authentication & Security
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel" />
+</p>
 
 - JWT Authentication
 - Laravel Passport
@@ -125,53 +128,154 @@ I enjoy turning complex business requirements into clean, maintainable, and prod
 - Spatie Permission
 - API Authentication
 - Authorization & Permissions
+- Token-Based Authentication
+
+---
+
+# 🚀 What I Build & Work With
+
+I work across backend, frontend, databases, and infrastructure to build scalable and production-ready applications.
+
+### 🏢 SaaS & Business Applications
+
+- ERP Systems
+- Inventory Management Systems
+- Sales & Purchase Management Platforms
+- Financial & Reporting Systems
+- Multi-tenant SaaS Applications
+- Business Management Platforms
+- Dashboard & Analytics Systems
+
+**Technologies**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker,git,github" />
+</p>
+
+---
+
+### 🛒 E-commerce Platforms
+
+- E-commerce Applications
+- Product & Product Variant Management
+- Shopping Cart & Checkout Systems
+- Order Management
+- Customer Management
+- Inventory & Stock Management
+- Payment Integration
+
+**Technologies**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,mysql,postgres,prisma" />
+</p>
+
+---
+
+### 🌐 Custom Web Applications
+
+- Business Websites
+- Custom Web Applications
+- Portfolio & Service Platforms
+- API-powered Applications
+- Responsive Web Interfaces
+
+**Technologies**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxt,js,tailwind,bootstrap,laravel,nodejs" />
+</p>
+
+---
+
+### ⚙️ Backend & API Development
+
+- RESTful API Development
+- Authentication & Authorization
+- JWT & Token-based Authentication
+- Role-Based Access Control
+- Database Design & Relationships
+- Query Optimization
+- API Pagination, Filtering & Searching
+- Business Logic & Service Architecture
+
+**Technologies**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,docker" />
+</p>
+
+---
+
+## 🐳 DevOps, Docker & CI/CD
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,nginx,apache,linux" />
+</p>
+
+**Technologies & Practices**
+
+- Docker
+- Docker Compose
+- Containerized Development
+- CI/CD Pipelines
+- GitHub Actions
+- GitLab CI/CD
+- Automated Testing & Deployment
+- Continuous Integration
+- Continuous Deployment
+- Nginx
+- Apache
+- Linux
+- Environment & Configuration Management
 
 ---
 
 ## 🛠️ Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,npm,yarn,vscode" />
+</p>
+
+- Git
+- GitHub
+- GitLab
+- Postman
+- Figma
+- NPM
+- Yarn
+- Bun
+- VS Code
+- Cusor
+- Antigravity
 
 ---
 
-## ☁️ Deployment & Infrastructure
+# 🌱 Currently Learning & Future Goals
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+I'm continuously expanding my backend and full-stack engineering knowledge.
 
----
+### 📚 Future Technologies
 
-## 📦 Other Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,go" />
+</p>
 
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+- C#
+- ASP.NET Core
+- Java
+- Spring Boot
+- Go (Golang)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Shraban-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shraban-7&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraban-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My goal is to become a stronger **polyglot backend engineer** capable of designing and building scalable systems across multiple ecosystems.
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Contributions
 
-[![Shraban's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shraban-7&theme=github-dark)](https://github.com/Shraban-7)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shraban-7&theme=github-dark&hide_border=true&area=true" width="100%"/>
+</p>
 
 ---
 
@@ -181,9 +285,9 @@ I enjoy turning complex business requirements into clean, maintainable, and prod
 
 ---
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shraban-7&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shraban-7&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -193,4 +297,6 @@ I enjoy turning complex business requirements into clean, maintainable, and prod
 
 ---
 
-⭐️ From [Shraban-7](https://github.com/Shraban-7)
+<p align="center">
+  ⭐️ From <a href="https://github.com/Shraban-7">Shraban-7</a>
+</p>
