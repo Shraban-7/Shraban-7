@@ -34,7 +34,7 @@ My primary expertise is in **PHP & Laravel backend development**, while I'm cont
 ## 🧑‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,c,cpp,csharp,java,go" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ My primary expertise is in **PHP & Laravel backend development**, while I'm cont
 ## ⚙️ Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestsj,fastapi" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi" />
 </p>
 
 **Technologies & Tools**
