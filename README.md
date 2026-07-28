@@ -109,14 +109,6 @@ My goal is to become a stronger **polyglot backend engineer**, capable of design
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shraban-7&theme=github-dark&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
 ### 💭 Developer Philosophy
 
 > **Build it clean. Scale it smart. Ship it confidently.**
